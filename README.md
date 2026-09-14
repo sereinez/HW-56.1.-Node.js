@@ -48,8 +48,3 @@ npm test
 ```
 
 
-function asyncOperationDemo(
-  callback: (operation: 'nextTick' | 'setImmediate' | 'setTimeout') => void
-): void
-```
-
